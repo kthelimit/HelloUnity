@@ -1,0 +1,92 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void App_Start_m87C870577A97FF8C0E70BB6A396925E502F934A9 (void);
+extern void App__ctor_mA12E1EAC0E6761DB7C7F1FF95E4A8FECD4E38084 (void);
+extern void CarController_Start_m15C0896D5EB70572BF27815FE41FF8E52DA22145 (void);
+extern void CarController_Update_mA0FE1C8A651320D6A50CC5BF05D0D2BEE984AB67 (void);
+extern void CarController__ctor_mED29536AC2B7697D76B32073704A86307FDCA1FF (void);
+extern void DrawArrow_ForGizmo_m085E729EE3EF5C489F97E2F3708085E8EC3517F6 (void);
+extern void DrawArrow_ForDebug_mD2FF0B03C2D7B58F8EBCFD3E9D011FD6A16D0494 (void);
+extern void DrawArrow_randomStar_m9E5E96769189F394967E2CD6DF52C01DFFCF775A (void);
+extern void DrawArrow_comparePositions_m7CDF4E27C1E105F1A8D514BFA18ACAAD631E838E (void);
+extern void GameDirector_Start_m02BE40249C44E2ECC4035D59D4A70F6678A41E9C (void);
+extern void GameDirector_Update_m3D758017B69C5F1B1E381BDED2E19E77A17298A5 (void);
+extern void GameDirector__ctor_m11BFC3A4A757A802BDD31DFC5E5F1D19E54DF1DD (void);
+extern void RouletteController_Update_m1E20A0FB9E91073A77B844038F007A66F24212C2 (void);
+extern void RouletteController__ctor_m92ADC8D6D20D593329F59C4CC2FA00B980F5307A (void);
+extern void Weapon__ctor_m6F053F0444AE8DF68EDA99C92CF944903C784332 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[17] = 
+{
+	App_Start_m87C870577A97FF8C0E70BB6A396925E502F934A9,
+	App__ctor_mA12E1EAC0E6761DB7C7F1FF95E4A8FECD4E38084,
+	CarController_Start_m15C0896D5EB70572BF27815FE41FF8E52DA22145,
+	CarController_Update_mA0FE1C8A651320D6A50CC5BF05D0D2BEE984AB67,
+	CarController__ctor_mED29536AC2B7697D76B32073704A86307FDCA1FF,
+	DrawArrow_ForGizmo_m085E729EE3EF5C489F97E2F3708085E8EC3517F6,
+	DrawArrow_ForDebug_mD2FF0B03C2D7B58F8EBCFD3E9D011FD6A16D0494,
+	DrawArrow_randomStar_m9E5E96769189F394967E2CD6DF52C01DFFCF775A,
+	DrawArrow_comparePositions_m7CDF4E27C1E105F1A8D514BFA18ACAAD631E838E,
+	GameDirector_Start_m02BE40249C44E2ECC4035D59D4A70F6678A41E9C,
+	GameDirector_Update_m3D758017B69C5F1B1E381BDED2E19E77A17298A5,
+	GameDirector__ctor_m11BFC3A4A757A802BDD31DFC5E5F1D19E54DF1DD,
+	RouletteController_Update_m1E20A0FB9E91073A77B844038F007A66F24212C2,
+	RouletteController__ctor_m92ADC8D6D20D593329F59C4CC2FA00B980F5307A,
+	Weapon__ctor_m6F053F0444AE8DF68EDA99C92CF944903C784332,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[17] = 
+{
+	4163,
+	4163,
+	4163,
+	4163,
+	4163,
+	4357,
+	4273,
+	5601,
+	5580,
+	4163,
+	4163,
+	4163,
+	4163,
+	4163,
+	4163,
+	6135,
+	4163,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	17,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
