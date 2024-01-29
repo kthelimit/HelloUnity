@@ -22,11 +22,7 @@ public class ArrowController : MonoBehaviour
 
 
     void Update()
-    {
-        if(gameDirector.playerHp<=0)
-        {
-            Destroy(this.gameObject);
-        }
+    { 
 
         //방향*속도*시간
         Vector3 movement = Vector3.down * speed * Time.deltaTime;
