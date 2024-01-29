@@ -1,4 +1,4 @@
 수업으로 진행했던 각종 예제들.
 Library 내의 파일이 너무 커서 안 올렸다.( 나중에 받아서 실행하는 경우 잊지말 것.
-![이미지](https://media.discordapp.net/attachments/1197407425721024575/1199963805304766564/image.png)
+![이미지](https://media.discordapp.net/attachments/1197407425721024575/1199963805304766564/image.png)   
 아마 위의 설정 때문에 커다란 파일이 생긴 것으로 추정된다...
